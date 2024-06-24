@@ -32,7 +32,7 @@ public class Login_Automation_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean openTheLoginPanelByClickingOnLogin() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -44,7 +44,7 @@ public class Login_Automation_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean clickOnLoginAndswitchToSigninIframe() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -56,19 +56,19 @@ public class Login_Automation_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean openLoginWithPasswordbox() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
 	/**@Test4
 	 * about this method enterEmailandPasswordInLoginBox() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using fields "emailId" and "password"
 	 * @description : enter Email and Password In LoginBox
 	 * @return : String
 	 * @author : Yaksha
 	 */
 	public String enterEmailandPasswordInLoginBox(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return null;
 	}
 	
@@ -80,7 +80,7 @@ public class Login_Automation_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public boolean clickOnLoginButton() throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	
@@ -92,20 +92,20 @@ public class Login_Automation_L1_Pages extends StartupPage{
 	 * @author : Yaksha
 	 */
 	public String checkforFailureLoginValidateTheErrorMessage() throws Exception {
-		
+		// write your logic here
 		return null;	
 
 	}
 	
 	/**@Test7
 	 * about this method provideValidUserNameAndPasswordAndValidate() 
-	 * @param : Map<String, String>
+	 * @param : get the data from Map<String, String> expectedData using fields "ValidEmailId" and "validPassword"
 	 * @description : provide Valid User Name And Password And Validate, Check for success Login
 	 * @return : boolean
 	 * @author : Yaksha
 	 */
 	public boolean provideValidUserNameAndPasswordAndValidate(Map<String, String> expectedData) throws Exception {
-		
+		// write your logic here
 		return false;
 	}
 	

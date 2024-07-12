@@ -5,17 +5,9 @@ import java.util.Map;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class Login_Automation_L1_Pages extends StartupPage{
+public class Login_Automation_L1_Pages extends StartupPage {
 	
-	By helloLoginButton=By.xpath("");
-    By loginButton=By.xpath("");
-    By signInIframe=By.xpath("");
-    By loginWithPasswordButton=By.xpath("(");
-    By emailIdField=By.xpath("");
-    By passwordField=By.xpath("");
-    By logInButton=By.xpath("");
-    By errorMessage=By.xpath("");
-    By logInButtonAtRightTopCorner=By.xpath("");
+	// please write all locators here
 
 	String pageName = this.getClass().getSimpleName();
 
